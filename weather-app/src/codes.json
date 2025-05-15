@@ -1,0 +1,119 @@
+{
+    "0": "Unknown",
+    "1000": {
+      "des": "Clear",
+      "imageDay": "/icons/clear_day.svg",
+      "imageNight": "/icons/clear_night.svg"
+    },
+    "1100": {
+      "des": "Mostly Clear",
+      "imageDay": "/icons/mostly_clear_day.svg",
+      "imageNight": "/icons/mostly_clear_night.svg"
+    },
+    "1101": {
+      "des": "Partly Cloudy",
+      "imageDay": "/icons/partly_cloudy_day.svg",
+      "imageNight": "/icons/partly_cloudy_night.svg"
+    },
+    "1102": {
+      "des": "Mostly Cloudy",
+      "imageDay": "/icons/mostly_cloudy.svg",
+      "imageNight": "/icons/mostly_cloudy.svg"
+    },
+    "1001": {
+      "des": "Cloudy",
+      "imageDay": "/icons/cloudy.svg",
+      "imageNight": "/icons/cloudy.svg"
+    },
+    "2000": {
+      "des": "Fog",
+      "imageDay": "/icons/fog.svg",
+      "imageNight": "/icons/fog.svg"
+    },
+    "2100": {
+      "des": "Light Fog",
+      "imageDay": "/icons/fog_light.svg",
+      "imageNight": "/icons/fog_light.svg"
+    },
+    "4000": {
+      "des": "Drizzle",
+      "imageDay": "/icons/drizzle.svg",
+      "imageNight": "/icons/drizzle.svg"
+    },
+    "4001": {
+      "des": "Rain",
+      "imageDay": "/icons/rain.svg",
+      "imageNight": "/icons/rain.svg"
+
+    },
+    "4200": {
+      "des": "Light Rain",
+      "imageDay": "../public/icons/rain_light.svg",
+      "imageNight": "../public/icons/rain_light.svg"
+    },
+    "4201": {
+      "des": "Heavy Rain",
+      "imageDay": "../public/icons/rain_heavy.svg",
+      "imageNight": "../public/icons/rain_heavy.svg"
+    },
+    "5000": {
+      "des": "Snow",
+      "imageDay": "../public/icons/snow.svg",
+      "imageNight": "../public/icons/snow.svg"
+    },
+    "5001": {
+      "des": "Flurries",
+      "imageDay": "../public/icons/flurries.svg",
+      "imageNight": "../public/icons/flurries.svg"
+    },
+    "5100": {
+      "des": "Light Snow",
+      "imageDay": "../public/icons/snow_light.svg",
+      "imageNight": "../public/icons/snow_light.svg"
+    },
+    "5101": {
+      "des": "Heavy Snow",
+      "imageDay": "../public/icons/snow_heavy.svg",
+      "imageNight": "../public/icons/snow_heavy.svg"
+    },
+    "6000": {
+      "des": "Freezing Drizzle",
+      "imageDay": "../public/icons/freezing_drizzle.svg",
+      "imageNight": "../public/icons/freezing_drizzle.svg"
+    },
+    "6001": {
+      "des": "Freezing Rain",
+      "imageDay": "../public/icons/freezing_rain.svg",
+      "imageNight": "../public/icons/freezing_rain.svg"
+    },
+    "6200": {
+      "des": "Light Freezing Rain",
+      "imageDay": "../public/icons/freezing_rain_light.svg",
+      "imageNight": "../public/icons/freezing_rain_light.svg"
+    },
+    "6201": {
+      "des": "Heavy Freezing Rain",
+      "imageDay": "../public/icons/freezing_rain_heavy.svg",
+      "imageNight": "../public/icons/freezing_rain_heavy.svg"
+    },
+    "7000": {
+      "des": "Ice Pellets",
+      "imageDay": "../public/icons/ice_pellets.svg",
+      "imageNight": "../public/icons/ice_pellets.svg"
+    },
+    "7101": {
+      "des": "Heavy Ice Pellets",
+      "imageDay": "../public/icons/ice_pellets_heavy.svg",
+      "imageNight": "../public/icons/ice_pellets_heavy.svg"
+    },
+    "7102": {
+      "des": "Light Ice Pellets",
+      "imageDay": "../public/icons/ice_pellets_light.svg",
+      "imageNight": "../public/icons/ice_pellets_light.svg"
+    },
+    "8000": {
+      "des": "Thunderstorm",
+      "imageDay": "../public/icons/tstorm.svg",
+      "imageNight": "../public/icons/tstorm.svg"
+    }
+}

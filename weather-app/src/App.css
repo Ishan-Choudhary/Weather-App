@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;700&display=swap');
+@import "tailwindcss";
+
+.dd {
+    box-shadow: 0 0 80px rgba(88, 88, 88, 0.3);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(126, 125, 125, 0.1);
+}
+
+.search-bar {
+  box-shadow: 0 0 80px rgba(78, 78, 78, 0.63);
+}
+
+.loading    {
+    position: relative;
+    z-index: 1;
+}
+
+.loading::after {
+    content: "";
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: #AE590D;
+    z-index: 10;
+    width: 24px;
+    height: 24px;
+    border-radius: calc(infinity * 1px);
+}
+
+@keyframes fade-in-scale {
+  0% {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.loc    {
+    animation: fade-in-scale 0.4s ease-out forwards;
+}
