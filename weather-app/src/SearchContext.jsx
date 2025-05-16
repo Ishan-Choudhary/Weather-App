@@ -9,7 +9,6 @@ const SearchProvier = ({children}) =>   {
         const getCity = async () => {
             const cityReq = await fetch('http://ip-api.com/json/');
             const cityRes = await cityReq.json()
-            console.log(cityRes);
             setCity(cityRes.city)
         }
 
