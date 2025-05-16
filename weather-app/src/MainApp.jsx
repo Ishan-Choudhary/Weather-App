@@ -76,8 +76,8 @@ const MainApp = () =>  {
             <div className="w-full flex justify-between px-5 relative">
                 <input type="text" placeholder="Search for city.." value={cityInput} onChange={(e) => setCityInput(e.target.value)} onKeyDown={handleKeyDown} className="outline-0 bg-[#FFFFFF] pl-3 py-1 w-65/100 search-bar"/>
                 <div className="flex items-center w-1/7 xl:w-1/10  justify-between">
-                    <MagnifyingGlassIcon className="size-5 text-white" onClick={handleSearch}/>
-                    <MapPinIcon className="size-5 text-white" onClick={resetLocation}/>
+                    <MagnifyingGlassIcon className="cursor-pointer size-5 text-white" onClick={handleSearch}/>
+                    <MapPinIcon className="cursor-pointer size-5 text-white" onClick={resetLocation}/>
                 </div>
             </div>
             {error && <p className="ml-5 font-bold text-slate-50 bg-red-400 text-xs md:text-sm w-fit text-wrap">{error}</p>}
