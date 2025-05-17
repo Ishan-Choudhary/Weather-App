@@ -1,5 +1,5 @@
 # Weather App
-This is a weather built with the intention of building a clean UI. It uses glassmorphism along with subtle gradients to create an aesthetic feel for the website. The project includes a backend as well. It makes API calls when the frontend requests for weather data, in order to return the real time weather data, along with daily and hourly weather forecast. This prevents API key from being exposed to the frontend.
+This is a weather app built with clean UI. It uses glassmorphism along with subtle gradients to create an aesthetic feel for the website. The project includes a backend as well. It makes API calls when the frontend requests for weather data, in order to return the real time weather data, along with daily and hourly weather forecast. This prevents API key from being exposed to the frontend.
 
 # Features
 - Gives real time weather of any location in the world.
